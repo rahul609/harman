@@ -1,0 +1,35 @@
+body {
+  font-family:sans-serif;
+  margin: 10%;
+  background-color: rgb(1, 26, 26);
+}
+
+ul { border:1px solid #000; width:400px; position:relative; height:300px; overflow:hidden;}
+
+ul li {
+  position:absolute;
+  list-style:none;
+  width:400px;
+}
+
+#b1, #b2, #b3{
+  padding: 15px;
+  border-radius: 10px;
+  color:#FFFFFF;
+  font-family:'Roboto',sans-serif;
+  background-color:#192227;
+  text-align:center;
+  
+}
+
+
+ul{
+
+  padding: 5px;
+  border-radius: 10px;
+  color:#FFFFFF;
+  font-family:'Roboto',sans-serif;
+  background-color:#192227;
+  text-align:center;
+
+}
